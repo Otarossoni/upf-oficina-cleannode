@@ -1,0 +1,8 @@
+// import './practices/01-lint'
+// import './practices/02-types'
+// import './practices/03-names'
+// import './practices/04-destructuring-object'
+// import './practices/05-destructuring-array'
+// import './practices/06-ubiquitous-language'
+// import './practices/07-optional-chaining'
+// import './practices/08-nullish-coalescing'
