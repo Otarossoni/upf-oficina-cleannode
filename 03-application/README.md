@@ -7,11 +7,6 @@
 npm init -y
 ```
 
-#### Inicie um novo projeto Typescript:
-```
-npx tsc --init 
-```
-
 #### Instale as dependências de desenvolvimento:
 ```bash
 npm i -D typescript tsx tsup eslint dotenv @types/node @rocketseat/eslint-config
@@ -20,6 +15,11 @@ npm i -D typescript tsx tsup eslint dotenv @types/node @rocketseat/eslint-config
 #### Instale as dependências de produção:
 ```bash
 npm i fastify zod
+```
+
+#### Inicie um novo projeto Typescript:
+```
+npx tsc --init 
 ```
 
 #### Crie o arquivo _.eslintrc.json_ com o seguinte conteúdo:
